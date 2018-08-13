@@ -74,7 +74,7 @@ public class AndroidWifiModule extends ReactContextBaseJavaModule {
             wifiObject.put("level", result.level);
             wifiObject.put("timestamp", result.timestamp);
             //Other fields not added
-            // FIXME Add other wifiObjects fields NOW_05
+            // FIXME Add other wifiObjects fields NOW_06
             //wifiObject.put("operatorFriendlyName", result.operatorFriendlyName);
             //wifiObject.put("venueName", result.venueName);
             //wifiObject.put("centerFreq0", result.centerFreq0);
